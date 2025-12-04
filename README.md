@@ -11,5 +11,7 @@ I gave this new role access to all permissions
 <img width="723" height="727" alt="image" src="https://github.com/user-attachments/assets/750e088b-d793-4e6a-a865-2fc9917e70e8" />
 <img width="721" height="710" alt="image" src="https://github.com/user-attachments/assets/d03c86bc-da73-4aee-ba4e-99f28d0a51ef" />
 
+I then went to the departments section and pressed add department I named it SysAdmins and the parent is support.
+
   
  

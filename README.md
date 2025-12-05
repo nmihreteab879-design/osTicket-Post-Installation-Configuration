@@ -19,6 +19,24 @@ Next I went to the teams section then I pressed create team and named the team o
 <img width="718" height="229" alt="image" src="https://github.com/user-attachments/assets/ae5a012f-8641-421f-af47-b0653f853dd6" />
 <img width="723" height="985" alt="image" src="https://github.com/user-attachments/assets/c6cf59cd-c137-4ca8-8852-2d12ed79bdb6" />
 
+Then I went to settings and unchecked "unregistered users can create tickets" so anybody can create tickets
+<img width="721" height="590" alt="image" src="https://github.com/user-attachments/assets/fb5f3deb-369d-468a-9585-c186f4cb3fcb" />
+
+I then went to the admin panel went to agents and pressed add new then I added Jane Doe. I made jane apart of the sysadmins department, gave her the supremeadmin role and made her apart of the online banking team.
+
+<img width="719" height="769" alt="image" src="https://github.com/user-attachments/assets/50b97617-9a92-45ed-bc38-fe741d93000d" />
+<img width="722" height="490" alt="image" src="https://github.com/user-attachments/assets/e2b935db-e1e5-43b1-a389-f7272570ca7a" />
+<img width="721" height="438" alt="image" src="https://github.com/user-attachments/assets/b0d9488b-63f1-411c-b019-a9f4df69f5f6" />
+
+
+
+
+I made John apart 
+
+
+
+
+
 
 
 

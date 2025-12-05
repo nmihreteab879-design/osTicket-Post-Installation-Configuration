@@ -1,3 +1,31 @@
+<p align="center">
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+<h1>osTicket - Post-Install Configuration</h1>
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)  
+- Remote Desktop  
+- Internet Information Services (IIS)  
+
+<h2>Operating Systems Used</h2>
+
+- Windows 10 (21H2)
+
+<h2>Post-Install Configuration Objectives</h2>
+
+- Configure Roles to define agent permissions  
+- Create Departments for ticket assignment and workflow structure  
+- Set Up Teams for cross-departmental collaboration  
+- Configure SLA Plans to enforce response and resolution timelines  
+- Create and Assign Agents/Users for proper ticket routing and access
+
+<h2>Configuration Steps</h2>
+
+
 The first thing I did was log into the admin analyst login page and end users os ticket url through by going through two links
 <img width="1535" height="303" alt="image" src="https://github.com/user-attachments/assets/296aef96-6f99-484d-912e-09d9177c82eb" />
 <img width="1529" height="463" alt="image" src="https://github.com/user-attachments/assets/b2190bff-4dde-4c07-b427-d946d7a43a2a" />

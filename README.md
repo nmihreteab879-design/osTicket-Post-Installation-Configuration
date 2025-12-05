@@ -60,7 +60,7 @@ I made another help topic named personal computer issues I also madethe parent t
 I made another help topic named equipment request I made the parent topic general inquiry.
 <img width="720" height="561" alt="image" src="https://github.com/user-attachments/assets/d0144d27-b640-4d67-8a85-ead46042db59" />
 
-I made another help topic named password reset
+I made another help topic named password reset I made the parent topic report a problem.
 <img width="720" height="558" alt="image" src="https://github.com/user-attachments/assets/41b8195c-0d95-4b3b-8151-d63985de4821" />
 
 

@@ -11,7 +11,16 @@ I gave this new role access to all permissions
 <img width="723" height="727" alt="image" src="https://github.com/user-attachments/assets/750e088b-d793-4e6a-a865-2fc9917e70e8" />
 <img width="721" height="710" alt="image" src="https://github.com/user-attachments/assets/d03c86bc-da73-4aee-ba4e-99f28d0a51ef" />
 
-I then went to the departments section and pressed add department I named it SysAdmins and the parent is support.
+I then went to the departments section and pressed add department I named it SysAdmins and the parent is Top level department and I left everything as default and pressed save changes.
+<img width="722" height="984" alt="image" src="https://github.com/user-attachments/assets/ad690040-a2b6-4e06-99be-c28c3f6e786c" />
+<img width="719" height="394" alt="image" src="https://github.com/user-attachments/assets/c4bdbc0f-4c5d-46b5-bdd8-4acf6873b00b" />
+
+Next I went to the teams section then I pressed create team and named the team online banking.
+<img width="718" height="229" alt="image" src="https://github.com/user-attachments/assets/ae5a012f-8641-421f-af47-b0653f853dd6" />
+<img width="723" height="985" alt="image" src="https://github.com/user-attachments/assets/c6cf59cd-c137-4ca8-8852-2d12ed79bdb6" />
+
+
+
 
   
  

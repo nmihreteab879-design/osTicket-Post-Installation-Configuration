@@ -57,38 +57,48 @@ I then went to the admin panel went to agents and pressed add new then I added J
 <img width="721" height="438" alt="image" src="https://github.com/user-attachments/assets/b0d9488b-63f1-411c-b019-a9f4df69f5f6" />
 
 I then added another agent and named him Jhon Doe I gave him a Supporting role and I gave him view only acess and left everything elseas it is.
+
 <img width="719" height="767" alt="image" src="https://github.com/user-attachments/assets/d8c400e1-fe55-491c-8bae-4c015c0d2883" />
 <img width="720" height="493" alt="image" src="https://github.com/user-attachments/assets/fecefe7f-5db1-4518-b79c-b8a43c168aa6" />
 
 I then went back to Jane and Jhons accounts and I set their passwords.
+
 <img width="720" height="766" alt="image" src="https://github.com/user-attachments/assets/86e36c35-00a3-4e89-b1b1-8e9d00f3b7c1" />
 <img width="723" height="771" alt="image" src="https://github.com/user-attachments/assets/81373698-299b-47ff-a0a2-74baf5f87981" />
 
 I then went to the agent panel and pressed on users and added a user named Karen.
+
 <img width="715" height="500" alt="image" src="https://github.com/user-attachments/assets/90867bbe-ae72-4295-b720-519941dabb2f" />
 <img width="722" height="383" alt="image" src="https://github.com/user-attachments/assets/2b5b51e4-ccb2-4025-873e-0a6112bcc0e2" />
 
 Next I went to the admin panel then I went to the manage section and pressed SLA. I then pressed add SLA and then added an SLA named Sev-A with grace period of 1 hour and I set the schedule to 24/7.
+
 <img width="719" height="577" alt="image" src="https://github.com/user-attachments/assets/f96f5bbd-278c-4999-950c-6c59163d046b" />
 
 I also made A SLA named Sev-B with a grace period of 4 hours, schedule 24/7.
+
 <img width="723" height="575" alt="image" src="https://github.com/user-attachments/assets/e02c98c1-2cc8-49ba-bb2b-b21fc123faa4" />
 
 I also made A SLA named Sev-C with a grace period of 8 hours, schedule 25/7/buisness hours
+
 <img width="721" height="578" alt="image" src="https://github.com/user-attachments/assets/813a4311-3421-4169-8b37-c8e59ee5e50c" />
 
 <img width="721" height="391" alt="image" src="https://github.com/user-attachments/assets/84a3a07c-213a-44db-9bf5-1fe4499873d3" />
 
 I then went to the help topic section and I pressed add new  and made a help topic named buisness critical outage and I made the parent topic report a problem
+
 <img width="720" height="986" alt="image" src="https://github.com/user-attachments/assets/56e76589-2fae-4848-99f5-d9401d8dc538" />
 
 I made another help topic named personal computer issues I also madethe parent topic report a problem
+
 <img width="722" height="555" alt="image" src="https://github.com/user-attachments/assets/def29796-c7a1-4a3c-a8c4-780bfc6657f9" />
 
 I made another help topic named equipment request I made the parent topic general inquiry.
+
 <img width="720" height="561" alt="image" src="https://github.com/user-attachments/assets/d0144d27-b640-4d67-8a85-ead46042db59" />
 
 I made another help topic named password reset I made the parent topic report a problem.
+
 <img width="720" height="558" alt="image" src="https://github.com/user-attachments/assets/41b8195c-0d95-4b3b-8151-d63985de4821" />
 
 

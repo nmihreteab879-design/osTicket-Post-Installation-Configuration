@@ -35,13 +35,13 @@ After signing in, I navigated to the Admin Panel under the Agents tab to create 
 <img width="719" height="986" alt="image" src="https://github.com/user-attachments/assets/5d8b140d-db1e-4c77-b6ac-00ea46e59ef1" />
 <img width="723" height="429" alt="image" src="https://github.com/user-attachments/assets/6f602b07-1f70-4855-aa56-9b2d06c5f83c" />
 
-I gave this role all access permissions, so that it would be able to manage every facet of the ticketing system without being restricted by the default roles
+I gave this role all access permissions, so that it would be able to manage every facet of the ticketing system without being restricted by the default roles.
 
 <img width="714" height="747" alt="image" src="https://github.com/user-attachments/assets/5e2215bf-238c-48df-ae68-0a2e4a71a27a" />
 <img width="723" height="727" alt="image" src="https://github.com/user-attachments/assets/750e088b-d793-4e6a-a865-2fc9917e70e8" />
 <img width="721" height="710" alt="image" src="https://github.com/user-attachments/assets/d03c86bc-da73-4aee-ba4e-99f28d0a51ef" />
 
-I navigated to the Departments section and created a new department named 'SysAdmins' under the Top-Level category. I did this because you need a specific place for technical tickets to go. By creating a dedicated SysAdmin department, you make sure that IT-related problems don't get mixed up with things like HR or billing, so the right people can find their work easily.
+I navigated to the Departments section and created a new department named SysAdmins under the Top-Level category. I did this because you need a specific place for technical tickets to go. By creating a dedicated SysAdmin department, you make sure the right people can find their work easily.
 
 <img width="722" height="984" alt="image" src="https://github.com/user-attachments/assets/ad690040-a2b6-4e06-99be-c28c3f6e786c" />
 <img width="719" height="394" alt="image" src="https://github.com/user-attachments/assets/c4bdbc0f-4c5d-46b5-bdd8-4acf6873b00b" />
@@ -51,7 +51,7 @@ Next I went to the teams section then I pressed create team and named the team o
 <img width="718" height="229" alt="image" src="https://github.com/user-attachments/assets/ae5a012f-8641-421f-af47-b0653f853dd6" />
 <img width="723" height="985" alt="image" src="https://github.com/user-attachments/assets/c6cf59cd-c137-4ca8-8852-2d12ed79bdb6" />
 
-Then I went to settings and unchecked unregistered users can create tickets so anybody can create tickets. This allow anyone to submit a ticket without a login, I could test the system immediately as a guest user. It saves a lot of time since you don't have to stop and register every single person before they can actually use the help desk.
+Then I went to settings and unchecked (unregistered users cant create tickets) so anybody can create tickets. This allow anyone to submit a ticket without a login, I could test the system immediately as a guest user. It saves a lot of time since you don't have to stop and register every single person before they can actually use the help desk.
 
 <img width="721" height="590" alt="image" src="https://github.com/user-attachments/assets/fb5f3deb-369d-468a-9585-c186f4cb3fcb" />
 
@@ -61,7 +61,7 @@ I then went to the agents section of the admin panel and I added a new profile f
 <img width="722" height="490" alt="image" src="https://github.com/user-attachments/assets/e2b935db-e1e5-43b1-a389-f7272570ca7a" />
 <img width="721" height="438" alt="image" src="https://github.com/user-attachments/assets/b0d9488b-63f1-411c-b019-a9f4df69f5f6" />
 
-I then added another agent and named him Jhon Doe I gave him a Supporting role and I gave him view only acess and left everything else as it was. By setting John up with limited permissions, I ensured the integrity of the data. In a functioning help desk, you don’t want every user to have the power to edit or delete ticket history. This setup ensures that only authorized people like can make big changes, while people like John can still provide oversight without the risk of accidental errors.
+I then added another agent and named him Jhon Doe I gave him a Supporting role and I gave him view only acess and left everything else as it was. By setting John up with limited permissions, I ensured the integrity of the data. In a functioning help desk, you don’t want every user to have the power to edit or delete ticket history. This setup ensures that only authorized people can make big changes, while people like John can still provide oversight without the risk of accidental errors.
 
 <img width="719" height="767" alt="image" src="https://github.com/user-attachments/assets/d8c400e1-fe55-491c-8bae-4c015c0d2883" />
 <img width="720" height="493" alt="image" src="https://github.com/user-attachments/assets/fecefe7f-5db1-4518-b79c-b8a43c168aa6" />
